@@ -1,2 +1,2 @@
 # Excel-Projects
-Created dashboards for bike sales dataset in excel
+This dashboard gives a meaningful insight of the Bikes Sales dataset on many features
